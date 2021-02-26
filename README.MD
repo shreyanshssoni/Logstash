@@ -1,4 +1,4 @@
-This is the Demo of the Logstash to collect and analyze the Logs from (.log) files and applu some filteration and stored into elasticsearch.
+This is the Demo of the Logstash to collect and analyze the Logs from (.log) files and apply some filteration and stored into elasticsearch.
 In Logstash we have total 3 Parts
       **1)Input
      2)Output
