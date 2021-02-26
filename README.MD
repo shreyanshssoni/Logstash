@@ -15,6 +15,6 @@ NOTE:
  
  
  **Steps:
- 1)Make apache.conf file in anywhere in your local system or directory of logstash
- 2)Give path of input log files
- 3)In final step apply given command: ./logstash -f /filepath of apache.conf file/apache.conf**
+ (1)Make apache.conf file in anywhere in your local system or directory of logstash
+ (2)Give path of input log files
+ (3)In final step apply given command: ./logstash -f /filepath of apache.conf file/apache.conf**
